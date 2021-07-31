@@ -1,0 +1,25 @@
+{
+  "name": "array2regex",
+  "version": "1.0.0",
+  "description": "Convert an array of strings into a single regular expression",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theusaf/array2regex.git"
+  },
+  "keywords": [
+    "regex",
+    "string",
+    "list",
+    "array"
+  ],
+  "author": "theusaf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theusaf/array2regex/issues"
+  },
+  "homepage": "https://github.com/theusaf/array2regex#readme"
+}
